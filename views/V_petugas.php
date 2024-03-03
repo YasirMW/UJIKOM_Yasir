@@ -1,5 +1,5 @@
 <?php
-$halaman = "Produk";
+$halaman = "Petugas";
 include_once 'template/header.php';
 include_once 'template/sidebar.php';
 include_once 'template/topbar.php';
